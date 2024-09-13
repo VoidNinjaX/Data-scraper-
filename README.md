@@ -1,4 +1,4 @@
-
+CHECK PNG FOR WHAT IT LOOKS LIKE WHEN IT DOES FIND SOMETHING!
 
 # Vulnerability Scanner
 
